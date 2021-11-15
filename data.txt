@@ -1,3 +1,4 @@
 Name: Anna
 Age: 29
 Favourite colour: coral
+Favourite city: Paris
